@@ -1,5 +1,9 @@
 name: dart_prompter_fg
 version: 0.0.1
-description: Library to crete CLI wizards
+description: Library to crete CLI wizards (created from stephen grider course)
 environment:
   sdk: '>=2.10.0 <3.0.0'
+libraries:
+  prompter: prompter.dart
+license: MIT
+homepage: "www.github.com/fernandobelotto/dart_prompter_fg"
